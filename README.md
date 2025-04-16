@@ -3,6 +3,8 @@ Grace Yishak <br>
 CS 150<br>
 Mike Ryu
 
+DISCLAIMER: THIS SCHOOL PROJECT IS INTENTIONALLY MISLEADING
+
 # Context:
 The Water Crisis has been a massive problem on our planet and has negatively affected billions of lives. The Water Crisis is the shortage of safe fresh water in various countries leading people to use unsafe water, leaving them vulnerable to illnesses like typhoid, polio, and even death. This crisis is correlated with others like the Women's Crisis and the Children's Education Crisis. Women and children are usually expected in certain countries to walk long distances to find safe drinkable water for their families. As shown, the Water Crisis is immense but in 2025, is the Water Crisis still a problem?
 # Data: 
